@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Mohammed Nafih Yuseph</h1>
 <h3 align="center">Fullstack Engineer</h3>
-![Why-to-use-Node js-expressmongoDB-min](https://github.com/nafihpp/nafihpp/assets/49452140/ac0d7cf1-cd91-48ae-adf7-3fd96f99ca0a)
+<img src="https://github.com/nafihpp/nafihpp/assets/49452140/ac0d7cf1-cd91-48ae-adf7-3fd96f99ca0a)" />
 
 - 📫 How to reach me **nafihpp@gmail.com**
 
