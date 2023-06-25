@@ -9,8 +9,7 @@
 <a href="https://codesandbox.com/nafihpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nafihpp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Focussed On:</h3>
-
-<img src="https://github.com/nafihpp/nafihpp/assets/49452140/ac0d7cf1-cd91-48ae-adf7-3fd96f99ca0a)" />
+## Focussed On :
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafihpp&show_icons=true&locale=en&layout=compact" alt="nafihpp" /></p>
