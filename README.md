@@ -1,7 +1,19 @@
 <h1 align="left">Hi 👋, I'm Mohammed Nafih Yuseph</h1>
 <h3 align="left">Full Stack Engineer | Transforming Ideas into Digital Gold  </h3>
-<p> React.js| Next.js| Express.js| Nest.js|PostgreSQL| MongoDB | Java | Blockchain </p>
 - 📫 How to reach me **nafihpp@gmail.com**
+
+
+### 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
