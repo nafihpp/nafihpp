@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mohammed Nafih Yuseph</h1>
-<h3 align="left">Full Stack Engineer | Transforming Ideas into Digital Gold | </h3>
-
+<h3 align="left">Full Stack Engineer | Transforming Ideas into Digital Gold  </h3>
+<p> React.js| Next.js| Express.js| Nest.js|PostgreSQL| MongoDB | Java | Blockchain </p>
 - 📫 How to reach me **nafihpp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
