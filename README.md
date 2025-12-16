@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohammed Nafih Yuseph</h1>
-<h3 align="left">Senior FullStack Engineer | Transforming Ideas into Digital Gold</h3>
+<h3 align="left">Senior Full-Stack / AI Engineer </h3>
 
 - 📫 Reach me at: **nafihpp@gmail.com**
 
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Data Engineering" />
 </p>
 
 
