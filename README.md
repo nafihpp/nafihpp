@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Mohammed Nafih Yuseph</h1>
-<h3 align="left">Senior Full-Stack / AI Engineer </h3>
 
 - 📫 Reach me at: **nafihpp@gmail.com**
 
